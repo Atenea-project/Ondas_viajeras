@@ -1,4 +1,4 @@
-# Ondas_viajeras
+# Ondas viajeras
 En este repositorio veremos un ejemplo de ondas viajeras.  
 
 El código puede ser ejecutado desde un google colab:  
